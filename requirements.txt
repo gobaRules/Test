@@ -1,4 +1,4 @@
-sentinelhub==2.4.4
+sentinelhub
 datetime
 numpy
 matplotlib===2.0.2 
