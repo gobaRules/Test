@@ -1,6 +1,7 @@
+Pillow==5.2.0
 sentinelhub
 datetime
-numpy
+numpy==1.15.1
 matplotlib===2.0.2 
 requests==2.19.1
 ipywidgets==7.0.0
