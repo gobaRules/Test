@@ -1,0 +1,7 @@
+sentinelhub==2.4.4
+datetime
+numpy
+matplotlib===2.0.2 
+requests==2.19.1
+ipywidgets==7.0.0
+ipython==6.1.0
